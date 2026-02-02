@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>首页 on 我的个人主页</title>
+    <link>https://hunengneng.github.io/</link>
+    <description>Recent content in 首页 on 我的个人主页</description>
+    <generator>Hugo -- 0.150.0</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 02 Feb 2026 23:35:00 +0800</lastBuildDate>
+    <atom:link href="https://hunengneng.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的第一篇文章：使用 Hugo 搭建个人博客</title>
+      <link>https://hunengneng.github.io/posts/first-post/</link>
+      <pubDate>Mon, 02 Feb 2026 23:35:00 +0800</pubDate>
+      <guid>https://hunengneng.github.io/posts/first-post/</guid>
+      <description>分享使用 Hugo 静态网站生成器搭建个人博客的经验和步骤</description>
+    </item>
+    <item>
+      <title>关于我</title>
+      <link>https://hunengneng.github.io/about/</link>
+      <pubDate>Mon, 02 Feb 2026 23:30:00 +0800</pubDate>
+      <guid>https://hunengneng.github.io/about/</guid>
+      <description>&lt;h1 id=&#34;你好我是-你的名字&#34;&gt;你好，我是 [你的名字]！&lt;/h1&gt;
+&lt;p&gt;欢迎来到我的个人主页！我是一名充满热情的开发者，专注于技术学习和创新。&lt;/p&gt;
+&lt;h2 id=&#34;我的背景&#34;&gt;我的背景&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;教育背景&lt;/strong&gt;: [你的学校] 计算机科学专业&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;工作经历&lt;/strong&gt;: [你的工作经历]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;技术专长&lt;/strong&gt;: Web开发、后端开发、数据分析&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;技能&#34;&gt;技能&lt;/h2&gt;
+&lt;h3 id=&#34;编程语言&#34;&gt;编程语言&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;JavaScript/TypeScript&lt;/li&gt;
+&lt;li&gt;Go&lt;/li&gt;
+&lt;li&gt;Java&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;框架和工具&#34;&gt;框架和工具&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;React/Vue.js&lt;/li&gt;
+&lt;li&gt;Node.js&lt;/li&gt;
+&lt;li&gt;Docker&lt;/li&gt;
+&lt;li&gt;Git&lt;/li&gt;
+&lt;li&gt;Linux&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;项目经验&#34;&gt;项目经验&lt;/h2&gt;
+&lt;h3 id=&#34;项目一项目名称&#34;&gt;项目一：[项目名称]&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;描述&lt;/strong&gt;: [项目简要描述]
+&lt;strong&gt;技术栈&lt;/strong&gt;: [使用的技术]
+&lt;strong&gt;成果&lt;/strong&gt;: [项目成果]&lt;/p&gt;
+&lt;h3 id=&#34;项目二项目名称&#34;&gt;项目二：[项目名称]&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;描述&lt;/strong&gt;: [项目简要描述]
+&lt;strong&gt;技术栈&lt;/strong&gt;: [使用的技术]
+&lt;strong&gt;成果&lt;/strong&gt;: [项目成果]&lt;/p&gt;
+&lt;h2 id=&#34;兴趣爱好&#34;&gt;兴趣爱好&lt;/h2&gt;
+&lt;p&gt;除了编程，我还喜欢：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;阅读技术书籍和博客&lt;/li&gt;
+&lt;li&gt;参加技术社区活动&lt;/li&gt;
+&lt;li&gt;户外运动&lt;/li&gt;
+&lt;li&gt;摄影&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;联系我&#34;&gt;联系我&lt;/h2&gt;
+&lt;p&gt;如果你对我的工作感兴趣，或者想一起合作，欢迎通过以下方式联系我：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;邮箱: &lt;a href=&#34;mailto:your.email@example.com&#34;&gt;your.email@example.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/yourusername&#34;&gt;https://github.com/yourusername&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;LinkedIn: &lt;a href=&#34;https://linkedin.com/in/yourusername&#34;&gt;https://linkedin.com/in/yourusername&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;感谢访问我的个人主页！&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
